@@ -69,6 +69,5 @@ def allBraceletsTest():
 def main():
     maxNum=9
     print(allBracelets(maxNum))
-    print(countNumbers(maxNum))
 
 main()
